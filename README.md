@@ -1,5 +1,6 @@
 # Olá Mundo
  Repositorio criado em aula ao vivo
+<<<<<<< HEAD
 
  <html>
  <head>
@@ -11,3 +12,5 @@
     <hr>
  </body>
 </html>
+
+ 
